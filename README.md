@@ -38,13 +38,6 @@
 ![Pivotal Tracker](https://img.shields.io/badge/-Pivotal%20Tracker-430098?style=flat-square&logo=pivotal-tracker)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://alierbay.netlify.app/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@aerbay)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alierbay/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/allezzjuve/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/allezz/)
-[![Visits Badge](https://badges.pufler.dev/visits/kermit-klein/kermit-klein?style=for-the-badge)](https://github.com/kermit-klein/kermit-klein)
-
 <p  align="center" float="left">
 <img  src="https://cdn.iconscout.com/icon/free/png-256/spotify-11-432546.png" width="64" height="64" alt="Now Playing">
   <a href="https://githhub-now-playing.vercel.app/now-playing?open">
@@ -56,6 +49,14 @@
     <img  src="https://www.codewars.com/users/allezz/badges/large" width="256" height="64" alt="Now Playing">
 </a> -->
 </p>
+
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://alierbay.netlify.app/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@aerbay)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alierbay/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/allezzjuve/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/allezz/)
+[<img src ="https://img.shields.io/badge/discogs-333333.svg?&style=for-the-badge&logo=discogs&logoColor=gray%22">](https://www.discogs.com/user/allezz/collection?header=1)
+[![Visits Badge](https://badges.pufler.dev/visits/kermit-klein/kermit-klein?style=for-the-badge)](https://github.com/kermit-klein/kermit-klein)
 
 <details open> 
  <summary><b>Read my latest Medium articles</b> :bookmark_tabs:</summary>
