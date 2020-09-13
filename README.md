@@ -6,7 +6,7 @@
 
 &nbsp;
 
-## ⚡ Technologies
+## ⚡ Technologies I have used
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
