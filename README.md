@@ -1,4 +1,4 @@
-### Hi there, <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=20 height=20 />
+### Hi there, <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=30 height=30 />
 
 #### I’m a full-stack developer looking for opportunity to work in the tech industry.
 
