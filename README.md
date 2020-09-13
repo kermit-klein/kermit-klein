@@ -56,6 +56,7 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/allezzjuve/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/allezz/)
 [<img src ="https://img.shields.io/badge/discogs-333333.svg?&style=for-the-badge&logo=discogs&logoColor=gray%22">](https://www.discogs.com/user/allezz/collection?header=1)
+[<img src="https://img.shields.io/badge/Last.fm-%23D51007.svg?&style=for-the-badge&logo=last.fm&logoColor=white" />](https://www.last.fm/user/allezz)
 [![Visits Badge](https://badges.pufler.dev/visits/kermit-klein/kermit-klein?style=for-the-badge)](https://github.com/kermit-klein/kermit-klein)
 
 <details open> 
