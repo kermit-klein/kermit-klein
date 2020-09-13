@@ -53,7 +53,6 @@
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://alierbay.netlify.app/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@aerbay)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alierbay/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/allezzjuve/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/allezz/)
 [<img src ="https://img.shields.io/badge/discogs-333333.svg?&style=for-the-badge&logo=discogs&logoColor=gray%22">](https://www.discogs.com/user/allezz/collection?header=1)
 [<img src="https://img.shields.io/badge/Last.fm-%23D51007.svg?&style=for-the-badge&logo=last.fm&logoColor=white" />](https://www.last.fm/user/allezz)
