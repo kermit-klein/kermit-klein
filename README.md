@@ -1,9 +1,5 @@
 ### Hi there, <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=30 height=30 />
 
-#### I’m a full-stack developer looking for new opportunities.
-
-#### I have an electrical engineering background and 5 years of marketing experience but I’ve discovered my passion in the tech industry. I feel confident to say that I’m very familiar with Test Driven and Agile Web Development.
-
 &nbsp;
 
 ## ⚡ Technologies I have used
